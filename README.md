@@ -5,7 +5,7 @@
 
 
 ## Metric learning 
-- Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates
+- Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates [[Paper]](https://paperswithcode.com/paper/did-it-change-learning-to-detect-point-of) [[Review]](https://github.com/kimtomato/Reading-Paper-Archive/issues/1) [[link]](https://europe.naverlabs.com/research/publications/did-it-change-learning-to-detect-point-of-interest-changes-for-proactive-map-updates/)
 
 
 ## 3D view Synthesis
