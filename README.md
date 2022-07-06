@@ -8,7 +8,8 @@
 - Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates
 
 
-## NeRF
+## 3D view Synthesis
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Paper]](https://arxiv.org/abs/2003.08934) 
 
 ## Model Compression
 
