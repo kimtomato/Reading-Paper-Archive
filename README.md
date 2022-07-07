@@ -11,7 +11,9 @@
 ## 3D view Synthesis
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Paper]](https://arxiv.org/abs/2003.08934) 
 
-## Model Compression
+## image Compression
+- Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics [[Paper]](https://arxiv.org/abs/2001.03569)
+- Implicit Neural Representations for Image Compression [[Paper]](https://arxiv.org/abs/2112.04267)
 
 ## Vision 
 
