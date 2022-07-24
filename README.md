@@ -12,7 +12,7 @@
 
 ## 3D view Synthesis
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Paper]](https://arxiv.org/abs/2003.08934) 
-
+- PREF: Phasorial Embedding Fields for Compact Neural Representations [[Paper]](https://arxiv.org/abs/2205.13524) [[code]]()
 <br/>
 
 ## image Compression
